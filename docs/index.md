@@ -1,4 +1,4 @@
-## Integritetspolicy.
+## Integritetspolicy
 
 Detta är en integritetspolicy för webbplatsen procentify.com, skapad av utvecklaren Elin Fritiofsson.
 
